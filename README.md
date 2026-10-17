@@ -13,7 +13,7 @@ location, waiting cars, and completed cycles.
 - status
 - cars_waiting
 - cycles_completed
-
+  
 ## Methods
 - turn_green()
 - turn_yellow()
