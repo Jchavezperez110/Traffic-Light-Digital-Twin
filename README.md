@@ -1,6 +1,3 @@
-# Traffic-Light-Digital-Twin
-A Python traffic light digital twin using object oriented programming.
-
 # Traffic Light Digital Twin
 
 ## Project Description
